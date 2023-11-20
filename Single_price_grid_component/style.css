@@ -1,14 +1,14 @@
 body {
+    background-color: rgb(150, 159, 167);
+}
+#HEAD {
     background-color: aliceblue;
 }
-.HEAD {
 
+#left {
+    background-color: rgb(6, 156, 156);
 }
 
-.left {
-
-}
-
-.right {
-
+#right {
+    background-color: aquamarine;
 }
