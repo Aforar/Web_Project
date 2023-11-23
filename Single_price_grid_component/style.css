@@ -106,7 +106,7 @@ li{
     .Why .sub{
         width: 100%;
     }
-    .attribution{
-        display: flex;
-    }
+    .attribution { 
+        font-size: 11px; 
+        text-align: center; }
 }
