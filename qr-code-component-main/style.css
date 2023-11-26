@@ -10,12 +10,12 @@ body {
     align-items: center !important;
     min-height: 100vh;
     font-size: 16px;
-    background-color: blueviolet;
+    background-color: rgb(204, 154, 250);
 }
 .back {
     width: 284px;
     height: 399px;
-    box-shadow: 0 15px 20px 10px rgba(37, 43, 70, 0.1);
+    box-shadow: 0 15px 20px 10px rgba(9, 26, 100, 0.3);
     border-radius: 20px;
     background-color: white;
 }
