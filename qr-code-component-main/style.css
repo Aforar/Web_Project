@@ -1,4 +1,4 @@
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -10,13 +10,54 @@ body {
     align-items: center !important;
     min-height: 100vh;
     font-size: 16px;
+    background-color: blueviolet;
 }
 .back {
-    width: 220px;
-    height: 350px;
+    width: 284px;
+    height: 399px;
     box-shadow: 0 15px 20px 10px rgba(37, 43, 70, 0.1);
+    border-radius: 20px;
+    background-color: white;
 }
-
+.qr {
+    padding-top: 14px;
+    padding-bottom: 18px;
+    padding-left: 16px;
+    padding-right: 18px;
+}
+img{
+    
+    border-radius: 23px;
+    height: 242px;
+    width: 258px;
+    justify-content: center;
+    align-content: center;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-left: 0px;
+}
+.font{
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 11px;
+    padding-right: 5px;
+    text-align: center;
+    font-family: cursive;
+    
+}
+.scan-text{
+    text-align: center;
+    font-size: 13px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 11px;
+    padding-right: 5px;
+    text-align: center;
+    font-family: cursive;
+    opacity: 62%;
+}
 
 
 
@@ -27,4 +68,4 @@ body {
 
 
 .attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { color: hsl(0, 0%, 100%); }
